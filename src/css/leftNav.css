@@ -1,0 +1,37 @@
+.leftNav {
+    height: 100%;
+    width: 170px;
+    border-right: 1px solid black;
+    display: flex;
+    justify-content: center;
+}
+
+.leftNavMenu {
+    width: 100%;
+    height: 400px;
+    padding: 10px;
+}
+
+.leftNavList {
+    list-style: none;
+    padding:0;
+    margin:0;
+}
+
+.leftListItem {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 30px;
+    background-color: #EBE9E7;
+    border: burlywood ridge 1px;
+    margin: 3px 0;
+ }
+
+.leftNavList a {
+    color: #0F263D;
+    font-weight: bold;
+    text-decoration: none;
+    padding-left: 10px;
+}
+
