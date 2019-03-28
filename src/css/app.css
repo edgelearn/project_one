@@ -5,4 +5,5 @@
 .appBody {
   height: 100%;
   background-color:#F7F6F5;
+  display: flex;
 }

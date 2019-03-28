@@ -7,10 +7,10 @@ const LeftNav = () => {
     <div className="leftNavMenu">
     <ul className="leftNavList">
       <li className="leftListItem">
-        <Link to="/rater" >Pet Rater</Link>
+        <Link to="/rater/" >Pet Rater</Link>
       </li>
       <li className="leftListItem">
-        <Link to="/dashboard" >DashBoard</Link>
+        <Link to="/dashboard/" >DashBoard</Link>
       </li>
     </ul>
     </div>
